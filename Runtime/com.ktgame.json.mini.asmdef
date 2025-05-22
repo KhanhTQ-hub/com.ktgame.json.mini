@@ -1,0 +1,14 @@
+{
+    "name": "com.ktgame.json.mini",
+    "rootNamespace": "com.ktgame.json.mini",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
